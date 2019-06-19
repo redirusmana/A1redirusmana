@@ -1,0 +1,1 @@
+Buka file .txt menggunakan text Editor supaya terlihat lebih rapih.

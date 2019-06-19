@@ -1,0 +1,13 @@
+Program ini dibuat menggunakan aplikasi NetBeans IDE 8.0.2.
+Berbasis Java.
+
+Requirenment :
+Pastikan JRE Sudah Terinstall di Komputer.
+
+Run :
+1. Buka aplikasi CMD/Windows Powershell
+2. Lalu ketikan
+	C:\Users\nama>java -jar lokasifile\namaapk.jar
+3. Contoh : 
+	C:\Users\user>java -jar downloads\A1\bin\redirPrima.jar
+
